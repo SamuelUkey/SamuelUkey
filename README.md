@@ -21,5 +21,12 @@
 - 🎲 Digital Dice using 555 Timer
 - 🔋 Mini 5V Power Supply
 
+## 💼 Experience
+
+### Digital Marketing Intern | Marko Minds
+- Assisted in digital marketing campaigns and social media management.
+- Contributed to content creation and online brand promotion.
+- Worked on online brand awareness initiatives.
+
 ## 📫 Contact
 - 📍 Nagpur, India
