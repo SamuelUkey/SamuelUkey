@@ -1,74 +1,102 @@
-# ESP32 Battery Monitoring System
+# Hi, I'm Samuel Ukey 👋
 
-## Overview
+### Electronics & Telecommunication Engineering Student
+### Embedded Systems • IoT • PCB Design
 
-A battery monitoring system based on the ESP32 that measures battery
-voltage, processes the ADC readings, and displays the measured value
-on an OLED display.
+I'm an Electronics & Telecommunication Engineering student focused on
+building practical embedded systems and learning hardware development
+from circuit design to physical implementation.
 
-The project focuses on ADC measurement, voltage scaling, calibration,
-I²C communication, and hardware implementation.
+My current focus is on microcontrollers, embedded programming, PCB
+design, peripheral interfacing, and IoT systems.
 
-## System Architecture
+---
 
-Battery
-   ↓
-Voltage Divider
-   ↓
-ESP32 ADC
-   ↓
-Voltage Calculation
-   ↓
-OLED Display
+## 🔧 Technical Skills
 
-## Hardware
-
+### Embedded Systems
+- Arduino
 - ESP32
-- OLED Display
-- Resistors for voltage divider
-- Battery input
-- Protection components
+- Embedded C
+- GPIO
+- ADC
+- PWM
 
-## Hardware Design
+### Hardware
+- Digital Electronics
+- Circuit Design
+- Sensors & Actuators
+- Breadboard Prototyping
+- Soldering
+- Hardware Debugging
 
-[Insert schematic]
+### PCB Design
+- KiCad
+- Schematic Capture
+- Electrical Rules Check (ERC)
+- PCB Layout
+- Footprint Assignment
 
-[Insert PCB]
+### Tools
+- Tinkercad
+- Git
+- GitHub
+- Multimeter
 
-[Insert 3D PCB view]
+---
 
-## Firmware
+## 🚀 Current Focus
 
-The ESP32 reads the analog voltage through its ADC, converts the
-reading into the corresponding battery voltage, and updates the
-OLED display.
+I'm currently developing projects that follow the complete hardware
+development process:
 
-## Testing
+**Circuit Design → Prototype → Firmware → PCB → Physical Hardware → Testing**
 
-| Reference | Measured |
-|---|---:|
-| Multimeter | X.XX V |
-| ESP32 | X.XX V |
-| Error | X.XX % |
+Areas I'm working on:
 
-## Problems & Debugging
+- ESP32-based embedded systems
+- Microcontroller peripheral interfacing
+- OLED displays and sensors
+- Custom PCB development
+- Embedded firmware
+- IoT and wireless communication
 
-### ADC reading error
-...
+---
 
-### OLED communication issue
-...
+## 🔨 Projects
 
-## Result
+### 🔋 ESP32 Battery Monitoring System
+An ESP32-based system for measuring and displaying battery voltage
+using an ADC and OLED display.
 
-[Insert photo of working hardware]
+**Focus:** ESP32 • ADC • Voltage Measurement • OLED • PCB Design
 
-## Repository Structure
+### 🤖 Embedded Interactive Device
+A microcontroller-based device integrating an OLED display, touch
+sensor, addressable LEDs, servo and audio module.
+
+**Focus:** Embedded C • Peripheral Interfacing • Hardware Integration
+
+> More projects will be added as they progress from prototype to
+> complete, tested hardware implementations.
+
+---
+
+## 📚 Learning Path
 
 ```text
-hardware/
-firmware/
-schematic/
-pcb/
-images/
-documentation/
+Digital Electronics
+        ↓
+Microcontrollers
+        ↓
+Embedded C
+        ↓
+Peripheral Interfacing
+        ↓
+PCB Design
+        ↓
+Embedded Systems
+        ↓
+IoT & Communication
+        ↓
+Complete Embedded Products
