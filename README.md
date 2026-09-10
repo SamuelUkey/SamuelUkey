@@ -1,32 +1,24 @@
-# Hi there, I'm Samuel 👋
+# Hi, I'm Samuel 👋
 
-## 👨‍💻 About Me
-- 🎓 Electronics & Telecommunication Engineering Student
-- 🔧 Interested in Embedded Systems, IoT, PCB Design & Industrial Automation
-- 💻 Learning Arduino, ESP32, KiCad and Embedded C
-- 🚀 Building real-world electronics projects
+Electronics & Telecommunication Engineering student
+focused on Embedded Systems, IoT and PCB Design.
 
-## 🛠️ Skills
-- Arduino
-- ESP32
-- KiCad
-- Tinkercad
-- PCB Design
-- IoT
+## Current Focus
+
+- Embedded C
+- Arduino & ESP32
 - Digital Electronics
+- PCB Design with KiCad
+- Hardware Prototyping
+- Sensor & Peripheral Interfacing
 
-## 🚀 Projects
-- ⏱️ Digital Stopwatch
-- 🚦 Traffic Light Controller
-- 🎲 Digital Dice using 555 Timer
-- 🔋 Mini 5V Power Supply
+## Currently Building
 
-## 💼 Experience
+🔧 Custom embedded hardware projects
+📡 ESP32-based IoT systems
+🖥️ OLED & peripheral interfaces
+🧩 Custom PCBs
 
-### Digital Marketing Intern | Marko Minds
-- Assisted in digital marketing campaigns and social media management.
-- Contributed to content creation and online brand promotion.
-- Worked on online brand awareness initiatives.
+## Featured Projects
 
-## 📫 Contact
-- 📍 Nagpur, India
+Coming soon...
