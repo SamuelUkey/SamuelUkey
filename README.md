@@ -3,57 +3,27 @@
 ### Electronics & Telecommunication Engineering Student
 ### Embedded Systems • IoT • PCB Design
 
-I'm an Electronics & Telecommunication Engineering student focused on
-building practical embedded systems and learning hardware development
-from circuit design to physical implementation.
+I design and build embedded hardware — from circuit design and firmware
+to custom PCBs and working prototypes. Currently focused on ESP32-based
+systems, sensor integration, and KiCad PCB design.
 
-My current focus is on microcontrollers, embedded programming, PCB
-design, peripheral interfacing, and IoT systems.
+📫 samuelukey1@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;📍 Nagpur, Maharashtra, India
 
----
-
-## 🔧 Technical Skills
-
-### Embedded Systems
-- Arduino
-- ESP32
-- Embedded C
-- GPIO
-- ADC
-- PWM
-
-### Hardware
-- Digital Electronics
-- Circuit Design
-- Sensors & Actuators
-- Breadboard Prototyping
-- Soldering
-- Hardware Debugging
-
-### PCB Design
-- KiCad
-- Schematic Capture
-- Electrical Rules Check (ERC)
-- PCB Layout
-- Footprint Assignment
-
-### Tools
-- Tinkercad
-- Git
-- GitHub
-- Multimeter
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Current Focus
 
-I'm currently developing projects that follow the complete hardware
-development process:
+I follow the full hardware development process on every project:
 
 **Circuit Design → Prototype → Firmware → PCB → Physical Hardware → Testing**
 
 Areas I'm working on:
-
 - ESP32-based embedded systems
 - Microcontroller peripheral interfacing
 - OLED displays and sensors
@@ -63,22 +33,30 @@ Areas I'm working on:
 
 ---
 
-## 🔨 Projects
+## 🔧 Featured Project
 
-### 🔋 ESP32 Battery Monitoring System
-An ESP32-based system for measuring and displaying battery voltage
-using an ADC and OLED display.
+### 🤖 Desk Buddy — ESP32-Based Interactive Desktop Companion
+An interactive desktop companion built around an ESP32, with touch sensing,
+OLED + addressable LED visual feedback, servo-driven movement, and audio
+feedback via a buzzer and DFPlayer Mini. Full circuit and PCB designed in
+KiCad (schematic, ERC, layout), housed in a compact 3D-printable enclosure.
 
-**Focus:** ESP32 • ADC • Voltage Measurement • OLED • PCB Design
+**Stack:** ESP32 • Embedded C • TTP223 Touch Sensor • OLED • WS2812B •
+Servo Motors • DFPlayer Mini • KiCad
 
-### 🤖 Embedded Interactive Device
-A microcontroller-based device integrating an OLED display, touch
-sensor, addressable LEDs, servo and audio module.
+🔗 [Repo link]
 
-**Focus:** Embedded C • Peripheral Interfacing • Hardware Integration
+> More projects are in progress and will be added here as they move from
+> prototype to complete, tested hardware.
 
-> More projects will be added as they progress from prototype to
-> complete, tested hardware implementations.
+---
+
+## 🛠️ Tools
+
+- KiCad
+- Tinkercad
+- Git / GitHub
+- Multimeter
 
 ---
 
@@ -86,17 +64,5 @@ sensor, addressable LEDs, servo and audio module.
 
 ```text
 Digital Electronics
-        ↓
-Microcontrollers
-        ↓
-Embedded C
-        ↓
-Peripheral Interfacing
-        ↓
-PCB Design
-        ↓
-Embedded Systems
-        ↓
-IoT & Communication
-        ↓
-Complete Embedded Products
+...
+```
