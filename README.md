@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Ukey 👋
 
-### Electronics & Telecommunication Diplomate
+### Electronics & Telecommunication Diplomat
 ### Embedded Systems • IoT • PCB Design
 
 I design and build embedded hardware — from circuit design and firmware
